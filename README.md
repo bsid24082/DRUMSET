@@ -23,10 +23,6 @@ Welcome to **Savage DrumSets**, a virtual drum kit that lets you play different 
 - **k:** Snare
 - **l:** Tom 1
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-
 ## Technologies Used
 
 - **HTML5:** Markup language for structuring the webpage.
