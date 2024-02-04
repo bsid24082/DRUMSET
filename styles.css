@@ -75,9 +75,9 @@ button.f{
 
 @media screen and (max-width: 600px) {
     button {
-        font-size: 5vw;
-        height: 8vh;
-        width: 7vw;
+        font-size: 3vw;
+        height: 3vh;
+        width: 4vw;
     }
 
     .instruments {
@@ -87,9 +87,9 @@ button.f{
 
 @media screen and (max-width: 400px) {
     button {
-        font-size: 8vw;
-        height: 12vh;
-        width: 10vw;
+        font-size: 2vw;
+        height: 2vh;
+        width: 3vw;
     }
 
     .instruments {
